@@ -1,0 +1,3 @@
+include ':SecurityHelper'
+include ':app'
+rootProject.name = "appSecurity"
