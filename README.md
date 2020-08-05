@@ -12,12 +12,17 @@ pip install foobar
 
 ## Usage
 
-```python
-import foobar
+```
+       val safe = SafeBuilder(this)
+            .checkRoot(true)
+            .checkEmulator(true)
+            .checkSignature("", true)
+            .checkDebuggable(true)
+            .checkHookDetected(true)
+            .checkVPN(true)
+            .check()
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+        val s = safe.isSafe
 ```
 
 ## Contributing
