@@ -38,5 +38,5 @@ dependencies {
             .checkVPN(true)
             .check()
 
-        val s = safe.isSafe
+        val s = safe.isSafe // boolean
 ```
