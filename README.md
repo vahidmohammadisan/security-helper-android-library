@@ -10,6 +10,8 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 pip install foobar
 ```
 
+[![](https://jitpack.io/v/vahidmohammadisan/security-helper.svg)](https://jitpack.io/#vahidmohammadisan/security-helper)
+
 ## Usage
 
 ```kotlin
