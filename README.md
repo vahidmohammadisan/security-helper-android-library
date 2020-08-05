@@ -1,16 +1,30 @@
+
+[![](https://jitpack.io/v/vahidmohammadisan/security-helper.svg)](https://jitpack.io/#vahidmohammadisan/security-helper)
+
 # Security Helper
 
 SecurityHelper is a android library to check the security of your projects.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Step 1. Add the JitPack repository to your build file
 
 ```bash
-pip install foobar
+	allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
 ```
 
-[![](https://jitpack.io/v/vahidmohammadisan/security-helper.svg)](https://jitpack.io/#vahidmohammadisan/security-helper)
+Step 2. Add the dependency
+
+```bash
+dependencies {
+	        implementation 'com.github.vahidmohammadisan:security-helper:Tag'
+	}
+```
 
 ## Usage
 
