@@ -22,7 +22,7 @@ Step 2. Add the dependency
 
 ```bash
 dependencies {
-	        implementation 'com.github.vahidmohammadisan:security-helper:Tag'
+	        implementation 'com.github.vahidmohammadisan:security-helper:Tag' //:1.0.0
 	}
 ```
 
