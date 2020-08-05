@@ -24,11 +24,3 @@ pip install foobar
 
         val s = safe.isSafe
 ```
-
-## Contributing
-sadfgertyretertwertwertwertwertwertwer
-
-retreeeeeeetertwretwertwertwertwertwer
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
