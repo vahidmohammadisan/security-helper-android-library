@@ -12,7 +12,7 @@ pip install foobar
 
 ## Usage
 
-```
+```kotlin
        val safe = SafeBuilder(this)
             .checkRoot(true)
             .checkEmulator(true)
