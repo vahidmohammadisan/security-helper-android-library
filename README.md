@@ -3,7 +3,7 @@
 
 # Security Helper
 
-SecurityHelper is a android library to check the security of your projects.
+SecurityHelper is an android library to check the security of your App on users dervices.
 
 ## Installation
 
